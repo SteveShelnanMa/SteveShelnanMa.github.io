@@ -10,4 +10,4 @@ redirect_from:
 
 I’m an Economics PhD candidate at the University of Rochester. My research focuses on macroeconomics and labor economics. I'm also interested in network science and its application in economics.
 
-##The website is still in constructing! Everything on it should not be considered as related to me until I delete this sentence!
+## The website is still in constructing! Everything on it should not be considered as related to me until I delete this sentence!
