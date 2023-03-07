@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaonan Ma (馬瀟南, Steve)" 
+  name             : "Xiaonan Ma // (馬瀟南, Steve)" 
   avatar           : "profile.png"
   bio              : "PhD candidate in Economics"
-  location         : "University of Rochester 280 Hutchison Road  P.O. Box 270156 Rochester, NY 14627"
+  location         : https://www.google.com/maps/place/Department+of+Economics+-+University+of+Rochester/@43.1272,-77.6285562,19.56z/data=!4m6!3m5!1s0x89d6b4b7fd44ac25:0x78d792ebbf5858cb!8m2!3d43.1271821!4d-77.6282844!16s%2Fg%2F12hqmtmwp
   employer         :
   pubmed           : 
   googlescholar    : 
