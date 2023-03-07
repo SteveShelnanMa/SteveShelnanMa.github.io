@@ -9,7 +9,8 @@ author_profile: true
 
 
 ## Working Paper
-* Labor Mobility, Earnings, and Network Structure
+* 
+* [Labor Mobility, Earnings, and Network Structure](https://SteveShelnanMa.github.io/_Working Paper/LMENS.pdf)
 * LEHD-NSCG
 
 ## Works in progress
