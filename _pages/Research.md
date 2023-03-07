@@ -10,9 +10,13 @@ author_profile: true
 
 Working Paper
 ---
-Labor Mobility, Earnings, and Network Structure
 
-LEHD-NSCG
+
+
+
+* Labor Mobility, Earnings, and Network Structure
+* LEHD-NSCG
+  * Abstract
 
 
 Works in progress
