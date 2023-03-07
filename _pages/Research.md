@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 
-*Working Paper
----
+Working Paper
+===
 Labor Mobility, Earnings, and Network Structure
 
 
-*Works in progress
----
+Works in progress
+===
 
 
   
