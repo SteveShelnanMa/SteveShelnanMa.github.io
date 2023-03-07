@@ -2,7 +2,8 @@
 main:
   - title: "Research"
     url: /publications/
-
+    url: /Working Paper/
+    url: /Work In Progress/
   #- title: "Talks"
   #  url: /talks/    
 
