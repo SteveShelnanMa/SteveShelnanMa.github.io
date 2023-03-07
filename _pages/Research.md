@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /Research/
+author_profile: true
+---
+
 Research
 ======
 Publication
