@@ -83,7 +83,6 @@ author:
   name             : "馬瀟南, Steve" 
   avatar           : "profile.png"
   bio              : #"PhD candidate in Economics"
-  location         : "Rochester, NY 14611"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  location         : "Rochester, NY 14611"
 
 
 # Reading Files
