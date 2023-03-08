@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I'm Xiaonan (rhymes with "Shel-nan"). I’m an Economics PhD candidate at the University of Rochester. 
 
 My research focuses on macroeconomics and labor economics. I'm also interested in network science and its application in economics.
