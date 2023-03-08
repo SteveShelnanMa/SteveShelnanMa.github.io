@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "Trivia(l)"
-permalink: /cv/
+permalink: /trivial/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
