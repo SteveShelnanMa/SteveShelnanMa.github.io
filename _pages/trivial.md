@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Trivia(l)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,6 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Please check out or download [here](https://SteveShelnanMa.github.io/CV/cv.pdf).
-
+When I'm not doing research, I play basketball and tennis competitively. 
   
