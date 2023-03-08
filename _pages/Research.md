@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Working Paper
-* [Labor Mobility, Earnings, and Network Structure](https://SteveShelnanMa.github.io/workingpaper/FedBrownBag.pdf)
+* [Labor Mobility, Earnings, and Network Structure](https://SteveShelnanMa.github.io/workingpaper/AKM.pdf)
 * LEHD-NSCG
 
 ## Works in progress
