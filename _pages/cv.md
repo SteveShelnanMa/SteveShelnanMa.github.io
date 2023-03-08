@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Here you can check out or download my [CV](https://SteveShelnanMa.github.io/workingpaper/AKM.pdf)
+Here you can check out or download my [CV](https://SteveShelnanMa.github.io/CV/cv.pdf).
 
   
