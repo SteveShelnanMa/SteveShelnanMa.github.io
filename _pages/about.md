@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Xiaonan (rhymes with "shel-nan"), an economics PhD candidate at the University of Rochester.
+I'm Xiaonan (rhymes with "shel-nan"). I'm a PhD candidate at the Economics department, University of Rochester.
 
 My research includes macroeconomics and labor economics. I'm also interested in network science and its application in economics.
 
