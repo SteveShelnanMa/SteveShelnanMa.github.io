@@ -14,7 +14,9 @@ redirect_from:
 ## Tools
 * [ChatGPT](https://chat.openai.com/)
 
-## Resources
+## Readings
+
+## others
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
 ## Markdown guide
