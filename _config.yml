@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaonan Ma" 
-  avatar           : "马潇南.JPG"
+  # avatar           : "马潇南.JPG"
   bio              : "(馬瀟南, Steve)"
   employer         : 
   pubmed           : 
