@@ -9,9 +9,9 @@
 remote_theme: kralizek/minimal-mistakes
 
 locale                   : "en-US"
-title                    : "Xiaonan"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ma"
+name                     : &name "Xiaonan Ma"
 description              : &description "personal description"
 url                      : https://SteveShelnanMa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
