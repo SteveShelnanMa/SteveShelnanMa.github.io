@@ -11,7 +11,7 @@ redirect_from:
 
 I'm Xiaonan (pronouced "Shel-nan"), or Steve. I am a PhD candidate in economics at the University of Rochester.
 
-My research includes macroeconomics and labor economics. I'm also interested in network science and its application in economics.
+I am interested in macroeconomics and labor economics.
 
 My CV ([pdf](https://SteveShelnanMa.github.io/CV/cv.pdf))
 
