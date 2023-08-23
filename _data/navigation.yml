@@ -12,9 +12,9 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
     
-  - title: "Resources"
-    url: /markdown/
+  #- title: "Resources"
+  #  url: /markdown/
     
   #- title: "Blog Posts"  
-  - title: "Trivia(l)"
-    url: /trivial/
+  #- title: "Trivia(l)"
+  #  url: /trivial/
