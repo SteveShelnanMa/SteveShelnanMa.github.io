@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Trivia(l)"
+title: ""
 permalink: /trivial/
 author_profile: true
 ---
