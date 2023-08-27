@@ -19,7 +19,7 @@ author_profile: true
 
 ![swillburg](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/92c91c98-426b-4e73-86e4-0b9818006888)
 
-My new record in [Swillburger](http://www.theplayhouseroc.com) in Feb 4, 2022.
+I set a new record in [Swillburger](http://www.theplayhouseroc.com) in Feb 4, 2022.
 
 ![bball](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/7f7a1243-7d22-4dd3-9301-3b3410630424)
 
