@@ -13,6 +13,6 @@ I'm Xiaonan (pronouced "Shel-nan"), or Steve. I am a PhD candidate in economics 
 
 Research Interest: macroeconomics and labor economics.
 
-[CV](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on Sept. 1, 2023.
+[CV](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on 09/01/2023.
 
 ## The website is still under construction. Everything on it should NOT be considered as related to me until I delete this sentence!
