@@ -25,12 +25,9 @@ and here
 A photo of Bob Lucas Jr. by me in Peking University, 2014.
 
 ![bball](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/7f7a1243-7d22-4dd3-9301-3b3410630424)
-
-The "Bad Boys" in 2016.
-
 ![swillburg](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/92c91c98-426b-4e73-86e4-0b9818006888)
 
-The new record I set in [Swillburger](http://www.theplayhouseroc.com) in Feb 4, 2022.
+(Left)The "Bad Boys" in 2016. (right)The new record I set in [Swillburger](http://www.theplayhouseroc.com) in Feb 4, 2022.
 
 
 
