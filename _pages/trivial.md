@@ -22,7 +22,7 @@ and here
 
 ![lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/5e14b17f-96db-4acd-bd2a-8054e8c35bd1)
 
-A photo of Robert Lucas by me in Peking University, 2014.
+A photo of Bob Lucas Jr. by me in Peking University, 2014.
 
 ![bball](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/7f7a1243-7d22-4dd3-9301-3b3410630424)
 
