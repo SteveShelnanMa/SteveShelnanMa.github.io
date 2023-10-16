@@ -18,16 +18,18 @@ and here
 ![messi](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/e8c0fddc-2724-44c0-bffc-9679d05345eb)
 
 [Messi and Argentina in 2022](https://www.nytimes.com/2022/12/18/sports/soccer/messi-world-cup-win.html)
+
+![bball](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/7f7a1243-7d22-4dd3-9301-3b3410630424)
+The "Bad Boys" in 2016.
 -->
 
 ![lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/5e14b17f-96db-4acd-bd2a-8054e8c35bd1)
 
 A photo of Bob Lucas Jr. by me in Peking University, 2014.
 
-![bball](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/7f7a1243-7d22-4dd3-9301-3b3410630424)
 ![swillburg](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/92c91c98-426b-4e73-86e4-0b9818006888)
 
-(Left)The "Bad Boys" in 2016. (right)The new record I set in [Swillburger](http://www.theplayhouseroc.com) in Feb 4, 2022.
+The new record I set in [Swillburger](http://www.theplayhouseroc.com) in Feb 4, 2022.
 
 
 
