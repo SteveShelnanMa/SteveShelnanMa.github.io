@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+<!---
+your comment goes here
+and here
 
-{%
 ![weili](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/ed49a96d-064c-4f96-826c-2cdd1f303c09)
 
 [Zhang Weili](https://en.wikipedia.org/wiki/Zhang_Weili) dominates in title defense of UFC 292 in 2023.
@@ -16,7 +18,8 @@ author_profile: true
 ![messi](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/e8c0fddc-2724-44c0-bffc-9679d05345eb)
 
 [Messi and Argentina in 2022](https://www.nytimes.com/2022/12/18/sports/soccer/messi-world-cup-win.html)
-%}
+-->
+
 ![lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/5e14b17f-96db-4acd-bd2a-8054e8c35bd1)
 
 A photo of Robert Lucas by me in Peking University, 2014.
