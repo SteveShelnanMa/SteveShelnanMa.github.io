@@ -29,7 +29,7 @@ A photo of Bob Lucas Jr. by me in Peking University, 2014.
 
 ![swillburg](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/92c91c98-426b-4e73-86e4-0b9818006888)
 
-The new record I set in [Swillburger](http://www.theplayhouseroc.com) in Feb 4, 2022.
+The new record I set in [Swillburger](http://www.theplayhouseroc.com), Feb 4 2022.
 
 
 
