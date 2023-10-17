@@ -29,7 +29,7 @@ Bob Lucas Jr. in Peking University, 2014. (Photograph by myself)
 
 ![swillburg](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/92c91c98-426b-4e73-86e4-0b9818006888)
 
-The new record I set in [Swillburger](http://www.theplayhouseroc.com), Feb 4 2022.
+The new record I made in [Swillburger](http://www.theplayhouseroc.com), Feb. 4 2022.
 
 
 
