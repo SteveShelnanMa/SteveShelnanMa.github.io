@@ -31,6 +31,8 @@ Bob Lucas Jr. in Peking University, Beijing, 2014. (Photograph by myself)
 
 <img width="520" alt="Screenshot 2023-10-27 at 12 30 38 PM" src="https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/db2a2072-52eb-4abf-bfc2-a090b28f2b5b">
 
+<img width="520" alt="Screenshot 2023-10-27 at 12 30 38 PM" src="https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/c1d515ab-c7af-41f2-98ca-ca88d8e050cc">
+
 The new record I made in [Swillburger](http://www.theplayhouseroc.com), Rochester NY, Feb. 4th 2022.
 
 
