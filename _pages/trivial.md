@@ -25,7 +25,7 @@ The "Bad Boys" in 2016.
 
 ![lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/5e14b17f-96db-4acd-bd2a-8054e8c35bd1)
 
-![WechatIMG298](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/a312732c-28d4-46a6-b843-a50273e50c3d)
+![263552770-5e14b17f-96db-4acd-bd2a-8054e8c35bd1](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/04f3931c-cd3f-413b-b5ad-a102e4b69588)
 
 Bob Lucas Jr. in Peking University, Beijing, 2014. (Photograph by myself)
 
