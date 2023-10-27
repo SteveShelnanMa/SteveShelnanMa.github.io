@@ -23,11 +23,12 @@ and here
 The "Bad Boys" in 2016.
 -->
 
-![lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/5e14b17f-96db-4acd-bd2a-8054e8c35bd1)
+![lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/5e14b17f-96db-4acd-bd2a-8054e8c35b![WechatIMG298](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/2f6490fc-a5d2-41eb-92e2-c5741ebcc8b5)
+d1)
 
 Bob Lucas Jr. in Peking University, Beijing, 2014. (Photograph by myself)
 
-![swillburg](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/92c91c98-426b-4e73-86e4-0b9818006888)
+<img width="520" alt="Screenshot 2023-10-27 at 12 30 38 PM" src="https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/db2a2072-52eb-4abf-bfc2-a090b28f2b5b">
 
 The new record I made in [Swillburger](http://www.theplayhouseroc.com), Rochester NY, Feb. 4th 2022.
 
