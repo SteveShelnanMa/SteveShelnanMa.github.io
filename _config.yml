@@ -81,14 +81,14 @@ analytics:
 
 
 # Site Author
-#author:
-#  name             : "Xiaonan Ma" 
-#  avatar           : "profile_1b.png"
-#  bio              : "(馬瀟南, Steve)"
+author:
+  name             : "Xiaonan Ma" 
+  avatar           : "profile_1b.png"
+  bio              : "(馬瀟南, Steve)"
   employer         : 
   pubmed           : 
   googlescholar    : 
-#  email            : xiaonan.ma@rochester.edu
+  email            : xiaonan.ma@rochester.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,26 +97,26 @@ analytics:
   flickr           :
   facebook         :
   foursquare       :
-#  github           : "SteveShelnanMa"
+  github           : "SteveShelnanMa"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-#  linkedin         : xiaonan-ma-08b05a287
+  linkedin         : xiaonan-ma-08b05a287
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-#  twitter          : "SteveXiaonanMa"
+  twitter          : "SteveXiaonanMa"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-#  location         : "Rochester, NY"
+  location         : "Rochester, NY"
 
 
 # Reading Files
@@ -210,7 +210,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
