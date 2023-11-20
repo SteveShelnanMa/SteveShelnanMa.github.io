@@ -31,7 +31,7 @@ Bob Lucas in Peking University, Beijing, 2014. (Photograph by myself)
 
 <img width="400" alt="Screenshot 2023-10-27 at 12 30 38 PM" src="https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/c1d515ab-c7af-41f2-98ca-ca88d8e050cc">
 
-I made a new record in [Swillburger](http://www.theplayhouseroc.com), 02/04/2022.
+I made a new record in [The Playhouse/Swillburger](http://www.theplayhouseroc.com), 02/04/2022.
 
 
 
