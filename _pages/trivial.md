@@ -21,6 +21,10 @@ and here
 
 ![bball](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/7f7a1243-7d22-4dd3-9301-3b3410630424)
 The "Bad Boys" in 2016.
+
+<img width="400" alt="Screenshot 2023-10-27 at 12 30 38 PM" src="https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/c1d515ab-c7af-41f2-98ca-ca88d8e050cc">
+
+I made a new record in [The Playhouse/Swillburger](http://www.theplayhouseroc.com), 02/04/2022.
 -->
 
 ![lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/5e14b17f-96db-4acd-bd2a-8054e8c35bd1)
@@ -29,9 +33,7 @@ The "Bad Boys" in 2016.
 Bob Lucas in Peking University, Beijing, 2014. (Photograph by myself)
 
 
-<img width="400" alt="Screenshot 2023-10-27 at 12 30 38 PM" src="https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/c1d515ab-c7af-41f2-98ca-ca88d8e050cc">
 
-I made a new record in [The Playhouse/Swillburger](http://www.theplayhouseroc.com), 02/04/2022.
 
 
 
