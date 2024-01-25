@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Xiaonan (pronouced "Shel-nan"), or Steve. I am a PhD candidate in economics at the [University of Rochester](http://www.sas.rochester.edu/eco/index.html).
+I'm Xiaonan (pronouced "Hsiao-Nan"), or Steve. I am a PhD candidate in economics at the [University of Rochester](http://www.sas.rochester.edu/eco/index.html).
 
 Research Interest: macroeconomics and labor economics.
 
