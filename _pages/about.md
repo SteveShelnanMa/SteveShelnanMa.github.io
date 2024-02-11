@@ -13,6 +13,6 @@ I'm Xiaonan (pronouced [Hsiao-Nan](https://www.howtopronounce.com/hsiaonan#googl
 
 My research focuses on macroeconomics, with a special interest in the roles of firms and workers, and their interactions within the labor market.
 
-[CV](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on 09/01/2023.
+[CV](https://SteveXiaonanMa.github.io/CV/cv.pdf) updated on 09/01/2023.
 
 ## The website is still under construction. Everything on it should NOT be considered as related to me until I delete this sentence!
