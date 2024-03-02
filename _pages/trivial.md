@@ -30,9 +30,10 @@ I made a new record in [The Playhouse/Swillburger](http://www.theplayhouseroc.co
 ![lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/5e14b17f-96db-4acd-bd2a-8054e8c35bd1)
 ![Lucas](https://github.com/SteveShelnanMa/SteveShelnanMa.github.io/assets/65184060/8574a81e-199f-4206-9ee8-7ce5c5250364)
 
-#Bob Lucas, Nov. 2014
+##Bob Lucas
+Nov. 2014
 Peking University, Beijing
-Photo by myself
+（Photo by myself）
 
 
 
