@@ -32,9 +32,9 @@ I made a new record in [The Playhouse/Swillburger](http://www.theplayhouseroc.co
 
 # Bob Lucas
 
-Photo by myself. Nov. 2014
+Photo by myself
 
-Peking University, Beijing
+Peking University, Beijing. Nov. 2014. 
 
 
 
