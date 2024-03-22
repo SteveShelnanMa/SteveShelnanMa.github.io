@@ -11,7 +11,7 @@ redirect_from:
 
 I'm Xiaonan (pronouced [Hsiao-Nan](https://www.howtopronounce.com/hsiaonan#google_vignette)), or Steve. I am a PhD candidate in economics at the [University of Rochester](http://www.sas.rochester.edu/eco/index.html).
 
-My research falls into the intersection of macroeconomics and labor economics, with special focus on the dynamics between workers and firms. I am particularly interested in exploring how these interactions influence the structure of the labor market and the broader economy. My Ph.D. research is supervised by [Mark Bils](https://sites.google.com/view/markbils/research).
+My research falls into the intersection of macroeconomics and labor economics. I am particularly interested in the dynamics between workers and firmse, and how their interactions influence the structure of the labor market and the broader economy. My Ph.D. research is supervised by [Mark Bils](https://sites.google.com/view/markbils/research).
 
 ## I am on the 2024-2025 job market.
 
