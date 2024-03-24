@@ -16,5 +16,5 @@ main:
   #  url: /markdown/
     
   #- title: "Blog Posts"  
-  - title: "Misc"
+  - title: "Other"
     url: /trivial/
