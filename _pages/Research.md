@@ -39,3 +39,18 @@ function toggleAbstract() {
   }
 }
 </script>
+<script>
+function toggleAbstract() {
+  var content = document.querySelector('.abstract-content');
+  var triangle = document.querySelector('.triangle-right');
+  if (content.style.display === "none") {
+    content.style.display = "block";
+    triangle.classList.remove('triangle-right');
+    triangle.classList.add('triangle-down');
+  } else {
+    content.style.display = "none";
+    triangle.classList.remove('triangle-down');
+    triangle.classList.add('triangle-right');
+  }
+}
+</script>
