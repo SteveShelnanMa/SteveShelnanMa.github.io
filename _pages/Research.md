@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Paper
 
-* [Labor Mobility, Earnings, and Network Structure](https://SteveShelnanMa.github.io/workingpaper/AKM.pdf), with someone. PDF  
+* Labor Mobility, Earnings, and Network Structure, with someone. [Draft](https://SteveShelnanMa.github.io/workingpaper/AKM.pdf)
   <button class="abstract-button" onclick="toggleAbstract(event)">Abstract</button>
   <div class="abstract-content" style="display:none;">
     <p>
