@@ -46,4 +46,16 @@ function toggleAbstract(event) {
   }
 }
 </script>
-
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  window.toggleAbstract = function(event) {
+    event.preventDefault();
+    var content = event.target.nextElementSibling;
+    if (content.style.display === "none" || content.style.display === "") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  }
+});
+</script>
