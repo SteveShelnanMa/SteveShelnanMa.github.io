@@ -9,11 +9,11 @@ author_profile: true
 
 
 ## Working Paper
-* [Labor Mobility, Earnings, and Network Structure](https://SteveShelnanMa.github.io/workingpaper/AKM.pdf)
+* [Labor Mobility, Earnings, and Network Structure](https://SteveShelnanMa.github.io/workingpaper/AKM.pdf), with someone. PDF
 <img width="754" alt="Screen Shot 2023-03-07 at 7 24 02 PM" src="https://user-images.githubusercontent.com/65184060/223587010-af205469-7c70-442a-8256-c721b9d95a57.png">
 
-* LEHD-NSCG
-
+* __LEHD-NSCG__. _Job Market Paper_ [Draft]
+Something else 
 <button class="abstract-button" onclick="toggleAbstract()">Abstract</button>
 <div class="abstract-content" style="display:none;">
   <p>
