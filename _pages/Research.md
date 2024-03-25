@@ -13,6 +13,23 @@ author_profile: true
 <img width="754" alt="Screen Shot 2023-03-07 at 7 24 02 PM" src="https://user-images.githubusercontent.com/65184060/223587010-af205469-7c70-442a-8256-c721b9d95a57.png">
 
 * LEHD-NSCG
+<button class="abstract-button" onclick="toggleAbstract()">Click to Read Abstract</button>
+<div class="abstract-content" style="display:none;">
+  <p>
+    Here is the abstract of the paper. You can replace this text with the actual abstract of your research. This section will expand or collapse when the user clicks on the button above.
+  </p>
+</div>
 
 ## Works in progress
-  
+
+
+<script>
+function toggleAbstract() {
+  var content = document.querySelector('.abstract-content');
+  if (content.style.display === "none") {
+    content.style.display = "block";
+  } else {
+    content.style.display = "none";
+  }
+}
+</script>
