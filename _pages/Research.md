@@ -52,7 +52,7 @@ author_profile: true
 }
 
 .abstract-text {
-  color: blue;
+  color: navy;
   margin-left: 5px;
 }
 
