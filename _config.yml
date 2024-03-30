@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Xiaonan Ma" 
   avatar           : "profile_1b.jpg"
-  bio              : "(馬潇南, Steve)"
+  bio              : "馬潇南, Steve"
   employer         : 
   pubmed           : 
   googlescholar    : 
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SteveShelnanMa"
+  github           : #"SteveShelnanMa"
   google_plus      :
   keybase          :
   instagram        :
