@@ -20,6 +20,10 @@
     {% if page.sidebar.nav %}
      {% include nav_list nav=page.sidebar.nav %}   
     {% endif %}
+    {% if site.location and site.location_url %}
+      <a href="{{ site.location_url }}" target="_blank">{{ site.location }}</a>
+    {% endif %}
+
   {% endif %}
   </div>
 {% endif %}
