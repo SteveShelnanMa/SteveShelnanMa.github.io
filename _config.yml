@@ -116,7 +116,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  location         : "https://maps.app.goo.gl/gNqjxE1kvBSJorFs6" # "Rochester, NY"
+  location: "Rochester, NY"
+  location_url: "https://maps.app.goo.gl/gNqjxE1kvBSJorFs6"
+
 
 
 # Reading Files
