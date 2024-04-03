@@ -16,6 +16,6 @@ I am particularly interested in the interplay between workers and firms, and how
 
 ### I am on the 2024-2025 job market.
 
-[Curriculum Vitae](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on 09/01/2023.
+Here is my [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on 09/01/2023.
 
 ## The website is still under construction. Everything on it should NOT be considered as related to me until I delete this sentence!
