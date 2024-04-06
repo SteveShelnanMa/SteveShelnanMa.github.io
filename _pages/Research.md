@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Paper
 
-* __Labor Mobility, Earnings, and Network Structure__, with someone, [[PDF]](https://SteveShelnanMa.github.io/workingpaper/AKM.pdf).   
+* __Labor Mobility, Earnings, and Network Structure__. _Job Market Paper_ [[Draft]](https://SteveShelnanMa.github.io/workingpaper/AKM.pdf).   
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
@@ -17,7 +17,7 @@ author_profile: true
     <p>Here is the first abstract of the paper.</p>
   </div>
 
-* __LEHD-NSCG__. _Job Market Paper_ [Draft]  
+* __LEHD-NSCG__, with someone [Draft]  
   Something else  
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
@@ -26,8 +26,8 @@ author_profile: true
     <p>Here is the abstract of the paper. This paper studies this and that using the data bla. I document that this and that and set a model to do this.</p>
   </div>
 
-## Works in progress
-* __The Trend of Steppingstone Firms in US.__. _Job Market Paper_ [Draft]  
+## Selected Works in Progress
+* __The Trend of Steppingstone Firms in U.S.__. [Draft]  
   Something else  
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
