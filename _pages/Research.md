@@ -76,9 +76,10 @@ author_profile: true
 
 .abstract-content {
   display: none;
-  margin-top: 2px;
-  /* Add any additional styling here */
+  margin-top: 2px; 
+  /* This decreases the space between the toggle and the content */
 }
+
 </style>
 
 <script>
