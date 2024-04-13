@@ -76,7 +76,7 @@ author_profile: true
 
 .abstract-content {
   display: none;
-  margin-top: 5px;
+  margin-top: 2px;
   /* Add any additional styling here */
 }
 </style>
