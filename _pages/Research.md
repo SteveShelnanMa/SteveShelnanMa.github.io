@@ -36,14 +36,17 @@ author_profile: true
   </div>
 
 ## Selected Works in Progress
-* __LFN in U.S.__. 
+* Anatomy of Motivations for Transitions
   Something else  
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
   <div class="abstract-content" style="display:none;">
-    <p>Here is the abstract of this paper.</p>
+    <p>This paper focus on the motivations for transitions in U.S. labor market.</p>
   </div>
+
+* Two Margins of Labor Supply Over Lifecycle 
+
 
   
 <style>
