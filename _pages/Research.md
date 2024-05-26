@@ -42,7 +42,7 @@ author_profile: true
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
   <div class="abstract-content" style="display:none;">
-    <p>This paper focus on the motivations for transitions in U.S. labor market.</p>
+    <p>This paper focus on the motivations for transitions in U.S. labor market. Explore from demographics, wealth, lifecycle. </p>
   </div>
 
 * Two Margins of Labor Supply Over Lifecycle 
