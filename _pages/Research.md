@@ -36,7 +36,7 @@ author_profile: true
   </div>
 
 ## Selected Works in Progress
-* Anatomy of Motivations for Transitions
+* __Anatomy of Motivations for Transitions__
   Something else  
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
@@ -45,7 +45,7 @@ author_profile: true
     <p>This paper focus on the motivations for transitions in U.S. labor market. Explore from demographics, wealth, lifecycle. </p>
   </div>
 
-* Two Margins of Labor Supply Over Lifecycle 
+* __Two Margins of Labor Supply Over Lifecycle__
 
 
   
