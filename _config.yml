@@ -58,7 +58,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter (X):
+twitter:
   username               : &twitter
 facebook:
   username               :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter(X.com)      : "SteveXiaonanMa"
+  twitter          : "SteveXiaonanMa"
   vine             :
   weibo            :
   xing             :
