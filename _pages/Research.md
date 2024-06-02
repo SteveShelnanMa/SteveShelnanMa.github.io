@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Paper
 
-* __Earnings Dynamics, Motivations for Transitions, and Steppingstone Employers__, [[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf). \
+* __Earnings Dynamics, Motivations for Transitions, and Steppingstone Employers__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf). \
   _Job Market Paper_ 
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
@@ -18,7 +18,7 @@ author_profile: true
     <p>Full abstract coming soon...</p>
   </div>
 
-* __A Simple Search Model with Employer Network__, [[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf)\
+* __A Simple Search Model with Employer Network__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf)\
   _Conibear Memorial Prize for the Best Third Year Paper, University of Rochester,_\
   _Accepted for presentation at the Search and Matching Workshop in the Asia-Pacific 2024_
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
@@ -28,7 +28,7 @@ author_profile: true
     <p>This article studies the role of employer network structures in shaping labor market outcomes through a simple search model. In this model, employers are depicted as nodes within a network, linked by edges that signify higher arrival rates of job offers. We proved the existence and uniqueness of what we term the ‘node value’ — the expected lifetime value derived from leveraging an employer’s network connections for job search. We establish that the node value is essentially an option asset in that its value escalates with the first order stochastic dominance of the wage distribution and its mean-preserving spreads in risk. Moreover, node value exhibits similarity to network centrality measures as it depends on employer’s position within the network. Specifically, it is positively related to the number of connections an employer maintains and the node values of other employers, especially the connected ones. Consequently, employers situated in more central positions within the network are deemed more desirable, offering better working prospects to workers. The node value thus serves as a crucial mechanism by which the employer network structure endogenously determines employment, labor mobility, and wage distributions. Furthermore, the model offers explanatory power for phenomena such as worker mobility towards lower-wage jobs. Our analysis highlights the critical role of network topology in driving employment decisions and molding labor market outcomes.</p>
   </div>
   
-* __Anatomy of Motivations for Transitions__, _[Draft] comming soon_
+* __Anatomy of Motivations for Transitions__. [Draft] _comming soon_
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
