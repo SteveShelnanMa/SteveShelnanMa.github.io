@@ -18,7 +18,7 @@ author_profile: true
   </div>
 
 * __A Simple Search Model with Employer Network__, [Draft]  
-  Conibear Memorial Prize for the Best Third Year Paper, University of Rochester;
+  Conibear Memorial Prize for the Best Third Year Paper, University of Rochester;\
   Accepted for presentation at the Search and Matching Workshop in the Asia-Pacific 2024
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
