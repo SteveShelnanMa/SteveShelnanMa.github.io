@@ -16,6 +16,5 @@ Through the lens of micro-data, I devote to explore the labor and firms dynamics
 
 ### I am on the 2024-2025 job market.
 
-Here is my [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on 09/01/2023.
+Here is my [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on 06/01/2024.
 
-## The website is still under construction. Everything on it should NOT be considered as related to me until I delete this sentence!
