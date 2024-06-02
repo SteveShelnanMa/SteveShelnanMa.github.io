@@ -9,7 +9,8 @@ author_profile: true
 
 ## Working Paper
 
-* __Earnings Dynamics, Motivations for Transitions, and Steppingstone Employers__. _Job Market Paper_ [[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf). 
+* __Earnings Dynamics, Motivations for Transitions, and Steppingstone Employers__, [[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf). \
+  _Job Market Paper_ 
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
@@ -17,7 +18,7 @@ author_profile: true
     <p>Full abstract coming soon...</p>
   </div>
 
-* __A Simple Search Model with Employer Network__, [Draft]  
+* __A Simple Search Model with Employer Network__, [[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf)
   _Conibear Memorial Prize for the Best Third Year Paper, University of Rochester,_\
   _Accepted for presentation at the Search and Matching Workshop in the Asia-Pacific 2024_
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
