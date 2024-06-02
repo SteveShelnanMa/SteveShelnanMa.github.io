@@ -37,9 +37,9 @@ author_profile: true
   </div>
 
 ## Selected Works in Progress
-* __Distortion in Something and Some Reform__, 
+*  __Wages and Hours Over the Life-Cycle__, with [Paulo Lins](https://pauloclins.com)
 
-*  Wages and Hours Over the Life-Cycle, with [Paulo Lins](https://pauloclins.com)
+* __Distortion in Something and Some Reform__
 
 
   
