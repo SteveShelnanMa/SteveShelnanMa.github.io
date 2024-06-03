@@ -38,6 +38,7 @@ author_profile: true
   <div class="abstract-content" style="display:none;">
     <p>This paper focuses on the motivations for transitions in U.S. labor market. </p>
   </div>
+  
 <!--
 # *  __Wages and Hours Over the Life-Cycle__, _with [Paulo Lins](https://pauloclins.com)_
 
