@@ -39,7 +39,7 @@ author_profile: true
 ## Selected Works in Progress
 *  __Wages and Hours Over the Life-Cycle__, _with [Paulo Lins](https://pauloclins.com)_
 
-* __Distortion in Something and Some Reform__
+* __Misallocation and SOE Reform in Labor Market__
 
 
   
