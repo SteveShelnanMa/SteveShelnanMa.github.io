@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Xiaonan (pronouced [Hsiao-Nan]([https://www.howtopronounce.com/hsiaonan#google_vignette](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&text=潇南&op=translate))), or Steve. I am a PhD candidate in economics at the [University of Rochester](http://www.sas.rochester.edu/eco/index.html). My Ph.D. research is supervised by [Mark Bils](https://sites.google.com/view/markbils/research).
+I'm Xiaonan (pronouced [Hsiao-Nan]([https://www.howtopronounce.com/hsiaonan#google_vignette](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&text=潇南&op=translate)), or Steve. I am a PhD candidate in economics at the [University of Rochester](http://www.sas.rochester.edu/eco/index.html). My Ph.D. research is supervised by [Mark Bils](https://sites.google.com/view/markbils/research).
 
 ### Research Fields: Macroeconomics, Labor Economics, Firm Dynamics. 
 Through the lens of micro-data, I devote to explore the labor and firms dynamics in the frictional labor market, and how their interactions shape the aggregate economy. 
