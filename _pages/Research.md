@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Paper
 
-* __Earnings Dynamics, Motivations for Transitions, and Steppingstone Employers__. __Draft comming soon__ 
+* __Earnings Dynamics and Steppingstone Employers__. __Draft comming soon__ 
 <!--[[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf). \-->
   _Job Market Paper_ 
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
@@ -32,7 +32,7 @@ author_profile: true
 
 
 ## Selected Works in Progress (Updating soon)
-* __Anatomy of Motivations for Transitions__. 
+* __Anatomy of Drivers of Transitions__. 
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
