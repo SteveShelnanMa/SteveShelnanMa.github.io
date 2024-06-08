@@ -11,7 +11,7 @@ remote_theme: kralizek/minimal-mistakes
 locale                   : "en-US"
 title                    : "Xiaonan (Steve) Ma"
 title_separator          : "-"
-name                     : &name "Steve, 馬潇南"
+name                     : &name "Xiaonan Ma"
 description              : &description "personal description"
 url                      : https://SteveShelnanMa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaonan Ma" 
+  name             : "Steve, 馬潇南" 
   avatar           : "profile_1b.jpg"
   bio              : "Macro/Labor/Firm"
   employer         : 
