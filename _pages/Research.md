@@ -18,7 +18,7 @@ _Job Market Paper_
     <p>Full abstract coming soon...</p>
   </div>
 
-* __A Simple Search Model with Employer Network__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/.pdf)\
+* __A Simple Search Model with Employer Network__. [[Draft on request]](https://SteveShelnanMa.github.io/workingpaper/.pdf)\
   _Conibear Memorial Prize for the Best Third Year Paper, University of Rochester,_\
   _Accepted for presentation at the Search and Matching Workshop in the Asia-Pacific 2024_
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
