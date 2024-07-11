@@ -39,10 +39,10 @@ author_profile: true
   </div>
 
 * __Misallocation and SOE Reform in Labor Market__
+
+
 <!--
 # *  __Wages and Hours Over the Life-Cycle__, _with [Paulo Lins](https://pauloclins.com)_
-
-
 -->
 
   
