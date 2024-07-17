@@ -14,7 +14,7 @@ author_profile: true
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
   <div class="abstract-content" style="display:none;">
-    <p>Full abstract coming soon...</p>
+    <p> I examine the pecuniary motivations behind transitions using administrative data, and explore the role of stepping-stone employers in shaping earnings dynamics and transitions. (Full abstract coming soon...) </p>
   </div>
 
 * __A Simple Search Model with Employer Network__. [[Draft on request]](https://SteveShelnanMa.github.io/workingpaper/.pdf)\
