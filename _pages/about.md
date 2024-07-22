@@ -13,7 +13,7 @@ I'm [Xiaonan](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&text=潇南&
 
 ### Research Fields: Macroeconomics, Labor Economics, Firm Dynamics. 
 <p style="text-align: justify;">
-My research combines empirical analysis with micro-data and search and matching theory. I explore the dynamics of workers and firms in frictional labor markets and how their interactions influence the broader economy.
+My research integrates empirical analysis with micro-data and search and matching theory. I investigate the dynamics between workers and firms within frictional labor markets and examine how their interactions shape the macroeconomy.
 </p>
 
 ### I am on the 2024-2025 job market.
