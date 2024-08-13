@@ -19,7 +19,7 @@ author_profile: true
 
 * __A Simple Search Model with Employer Network__. [[Draft on request]](https://SteveShelnanMa.github.io/workingpaper/.pdf)\
   _Conibear Memorial Prize for the Best Third Year Paper, University of Rochester,_\
-  _Accepted for presentation at the Search and Matching Workshop in the Asia-Pacific 2024_
+  _Presented at the Search and Matching Workshop in the Asia-Pacific 2024_
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
