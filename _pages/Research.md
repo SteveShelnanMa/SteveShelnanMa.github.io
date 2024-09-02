@@ -30,12 +30,12 @@ author_profile: true
 
 
 ## Selected Works in Progress (Updating soon)
-* __Anatomy of Drivers of Transitions__
+* __Anatomy of Motivations for Transitions__
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
   <div class="abstract-content" style="display:none;">
-    <p>This paper focuses on the drivers of transitions in U.S. labor market. </p>
+    <p>This paper focuses on the motivations of transitions in U.S. labor market. </p>
   </div>
 
 * __Misallocation and SOE Reform in Labor Market__
