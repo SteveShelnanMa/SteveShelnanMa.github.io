@@ -38,7 +38,7 @@ author_profile: true
     <p>This paper focuses on the motivations of transitions in U.S. labor market. </p>
   </div>
 
-* __Misallocation and SOE Reform in Labor Market__
+* __Human Capital, Career Choice, and the Hours Profile Over the Life-Cycle__, with Paulo Lins
 
 
 <!--
