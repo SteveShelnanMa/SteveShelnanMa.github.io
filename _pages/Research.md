@@ -38,7 +38,7 @@ author_profile: true
     <p>This paper focuses on the motivations of transitions in U.S. labor market. </p>
   </div>
 
-* __Human Capital, Career Choice, and the Hours Profile Over the Life-Cycle__, with [Paulo Lins]([https://sites.google.com/view/markbils/research](https://pauloclins.com)) 
+* __Human Capital, Career Choice, and the Hours Profile Over the Life-Cycle__, with [Paulo Lins](https://pauloclins.com) 
 
 
 <!--
