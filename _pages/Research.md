@@ -29,7 +29,7 @@ author_profile: true
   
 
 
-## Selected Works in Progress (Updating soon)
+## Selected Works in Progress
 * __Anatomy of Motivations for Transitions__
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
