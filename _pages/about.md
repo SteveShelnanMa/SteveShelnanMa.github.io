@@ -3,10 +3,13 @@ permalink: /
 title: "Greetings!"
 excerpt: "About me"
 author_profile: true
+sidebar: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+![Profile Photo](/images/profile_1a.jpg)
 
 I'm [Xiaonan](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&text=潇南&op=translate), or Steve. 
 I am a PhD candidate in economics at the [University of Rochester](http://www.sas.rochester.edu/eco/index.html). My Ph.D. research is supervised by [Mark Bils](https://sites.google.com/view/markbils/research).
