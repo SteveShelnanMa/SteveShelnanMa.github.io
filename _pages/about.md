@@ -21,5 +21,5 @@ My research combines reduced-form and structural analyses, leveraging micro-data
 
 ### I am on the 2024-2025 job market.
 
-Here is my [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on 06/01/2024.
+Here is my [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/cv.pdf) updated on 10/16/2024.
 
