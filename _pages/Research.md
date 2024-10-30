@@ -14,13 +14,15 @@ author_profile: true
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
   <div class="abstract-content" style="display:none;">
-    <p> Earnings cuts upon transitions (ECUTs) are a well-documented phenomenon, prompting the need for both empirical validation and theoretical explanations. This article revisits this feature in U.S. labor market with the data from the Longitudinal Employer-Household Dynamics (LEHD) and the National Survey of College Graduates (NSCG). 
-    I confirm that ECUTs are frequent, even after adjusting for potential measurement error related to location changes and the timing of transitions. Moreover, by linking the LEHD to the NSCG, I identify the workers' reported reasons for transitions, and quantify the share of ECUTs associated with each motivation. While non-pecuniary motivations are important, the pecuniary reasons are the most commonly chosen. Notably, many workers who report pecuniary reasons as their sole motivation for transitioning also experience ECUTs. 
-    Further analysis highlights a strong relationship between  pecuniary motivation, future earnings trajectories, and the likelihood of subsequent transitions. First, workers who transition for pecuniary reasons experience higher earnings growth in future periods. Second, these workers are more likely to undergo subsequent transitions.   
-    I argue that certain employers serve as ``stepping-stones" by improving workers' opportunities to transition to more desirable firms. Pursuing such stepping-stone employers thus is an important pecuniary motivation for job transitions and partially explains the incidence of ECUTs.  This interpretation is supported by firm-level heterogeneity in transition rates observed in the LEHD data. To formalize this mechanism, I introduce a sequential auction model where firms vary in both the quantity and quality of job offer arrival rates. Both the empirical analysis and theoretical framework underscore the critical role of stepping-stone employers in shaping ECUTs and broader labor market dynamics.              </p>
+    <p> Earnings cuts upon transitions (ECUTs) have been widely documented. This article examines this feature in U.S. labor market with the data from the Longitudinal Employer-Household Dynamics (LEHD) and the National Survey of College Graduates (NSCG). 
+    By linking the LEHD to the NSCG, I identify workers' reported motivations for transitions, and quantify the share of ECUTs for each motivation. Notably, many movers who report pecuniary reasons as the only motivation also experience ECUTs. 
+    Further analysis shows that future earnings trajectories and subsequent transitions are consistent with pecuniary motivation for initial transitions. Specifically, workers who transition for pecuniary reasons experience higher future earnings growth and are more likely to undergo subsequent transitions.   
+    I argue that certain employers function as ``stepping-stones" by offering better prospects for moving to better employers.  
+    Pursuing such stepping-stone employers thus represents an additional pecuniary motivation for job transitions and may partially explain the incidence of ECUTs.
+    To formalize this mechanism, I develop a random search model where employers differ in both the quantity and quality of job offer arrival rates. This concept of stepping-stone employers, often overlooked in the literature, is pivotal in the context of ECUTs and labor market dynamics.             </p>
   </div>
 
-* __A Simple Search Model with Employer Network__. [Draft on request] [[Slides]](https://SteveShelnanMa.github.io/workingpaper/simplemodel.pdf)\
+* __A Simple Search Model with Employer Network__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/draft_3rdYear.pdf)[[Slides]](https://SteveShelnanMa.github.io/workingpaper/simplemodel.pdf)\
   _Conibear Memorial Prize for the Best Third Year Paper, University of Rochester,_\
   _Presented at the Search and Matching Workshop in the Asia-Pacific 2024_
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
@@ -31,7 +33,7 @@ author_profile: true
   </div>
 
 
-* __Human Capital, Job Ladders, and Life-Cycle Labor Supply__, with [Paulo Lins](https://pauloclins.com) 
+* __Human Capital, Job Ladders, and Life-Cycle Labor Supply__, with [Paulo Lins](https://pauloclins.com) [Draft available on request] 
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
