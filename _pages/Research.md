@@ -46,7 +46,7 @@ author_profile: true
     <div class="triangle-right"></div><span class="abstract-text">Abstract</span>
   </div>
   <div class="abstract-content" style="display:none;">
-    <p>This paper focuses on the motivations of transitions in U.S. labor market. </p>
+    <p>This project leverages the administrative and survey datasets from the U.S. Census Bureau to investigate the motivations behind job transitions and their connections to earnings dynamics and worker characteristics. I begin by benchmarking the NSCG against other public survey datasets, emphasizing its superior ability to capture transition motivations. In contrast to my job market paper, which centers on pecuniary motives, this analysis delves into non-pecuniary motivations and examines how these relate to various worker attributes. Finally, I analyze how reported motivations for transitions vary across the worker’s life cycle. </p>
   </div>
 
 
