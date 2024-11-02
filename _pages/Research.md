@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Paper
 
-* __Earnings Dynamics, Transitions, and Stepping-stone Employers__. _(Job Market Paper)_. [[Draft coming soon]](https://SteveShelnanMa.github.io/workingpaper/.pdf).
+* __Earnings Dynamics, Transitions, and Stepping-stone Employers__. _(Job Market Paper)_. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/Job Market Paper_Nov1.pdf).
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Short Abstract</span>
   </div>
