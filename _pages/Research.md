@@ -10,7 +10,7 @@ author_profile: true
 ## Working Paper
 
 * __Earnings Dynamics, Transitions, and Stepping-stone Employers__. _(Job Market Paper)_. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/JMP_Nov10.pdf)\
-  _under Census Bureau Project #2799_
+  _Under Census Bureau Project #2799_
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Short Abstract</span>
   </div>
