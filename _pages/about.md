@@ -14,9 +14,9 @@ I am a PhD candidate in economics at the [University of Rochester](http://www.sa
 
 <div style="clear:both;"></div>
 
-### Research Interets: Macroeconomics, Labor Market, Firm Dynamics. 
+### Research Interets: Macroeconomics, Labor Market, Search and Matching. 
 <p style="text-align: justify;">
-My research combines reduced-form and structural analyses, leveraging micro-data to explore the dynamics between workers and firms in frictional labor markets. I investigate how these interactions influence macroeconomic outcomes.
+My research combines empirical and quantitative methods, often leveraging micro-data to explore the dynamics between workers and firms in frictional labor markets. I investigate how these interactions influence macroeconomic outcomes.
 </p>
 
 ### I am on the 2024-2025 job market.
