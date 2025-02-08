@@ -21,5 +21,5 @@ My research combines empirical and quantitative methods, often leveraging micro-
 
 ### I am on the 2024-2025 job market.
 
-Here is my [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/CV.pdf) updated on 11/05/2024.
+Here is my [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/CV.pdf) updated on 01/31/2025.
 
