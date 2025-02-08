@@ -11,12 +11,15 @@ author_profile: true
 
 * __Earnings Dynamics, Transitions, and Stepping-stone Employers__. _(Job Market Paper)_. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/JMP_Jan27.pdf)\
   _Under Census Bureau Project #2799_
+[Short Abstract]: I study the prevalence and drivers of earnings cuts upon transitions (ECUTs).  Using linked administrative-survey data from U.S. census, I identify motivations for transitions and quantify ECUTs across them. I find many movers solely moitivated by pecuniary reason still experience ECUTs. Moreover, workers who transition for pecuniary reasons have higher future earnings growth and higher probability of subsequent transitions. I propose that certain employers act as “stepping-stones,” providing pathways to better job opportunities.  I develop a random search model where employers differ in the quantity and quality of offer arrival rates, highlighting the role of stepping-stone employers in ECUTs and labor dynamics.
+<!--
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Short Abstract</span>
   </div>
   <div class="abstract-content" style="display:none;">
      <p style="text-align: justify;"> I study the prevalence and drivers of earnings cuts upon transitions (ECUTs).  Using linked administrative-survey data from U.S. census, I identify motivations for transitions and quantify ECUTs across them. I find many movers solely moitivated by pecuniary reason still experience ECUTs. Moreover, workers who transition for pecuniary reasons have higher future earnings growth and higher probability of subsequent transitions. I propose that certain employers act as “stepping-stones,” providing pathways to better job opportunities.  I develop a random search model where employers differ in the quantity and quality of offer arrival rates, highlighting the role of stepping-stone employers in ECUTs and labor dynamics.            </p>
   </div>
+-->
 
 * __A Simple Search Model with Employer Network__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/LMENS.pdf)[[Slides]](https://SteveShelnanMa.github.io/workingpaper/simplemodel.pdf)\
   _Conibear Memorial Prize for the Best Third Year Paper, University of Rochester,_\
@@ -49,9 +52,7 @@ author_profile: true
 
 * __On the Dynamics of Hours and Wage Distributions__
 
-<!--
-# *  __Wages and Hours Over the Life-Cycle__, _with [Paulo Lins](https://pauloclins.com)_
--->
+
 
   
 <style>
