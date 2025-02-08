@@ -20,7 +20,6 @@ author_profile: true
 
 * __A Simple Search Model with Employer Network__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/LMENS.pdf)[[Slides]](https://SteveShelnanMa.github.io/workingpaper/simplemodel.pdf)\
   _Conibear Memorial Prize for the Best Third Year Paper, University of Rochester,_\
-  _Presented at the Search and Matching Workshop in the Asia-Pacific 2024_
   <div class="toggle-abstract" onclick="toggleAbstract(event)">
     <div class="triangle-right"></div><span class="abstract-text">Short Abstract</span>
   </div>
