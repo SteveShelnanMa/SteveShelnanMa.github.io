@@ -48,7 +48,7 @@ author_profile: true
   </div>
 
 
-* __On the Dynamics of Wage Distributions and Working Hours__
+* __On the Dynamics of Working Hours and Wage Distributions__
 
 <!--
 # *  __Wages and Hours Over the Life-Cycle__, _with [Paulo Lins](https://pauloclins.com)_
