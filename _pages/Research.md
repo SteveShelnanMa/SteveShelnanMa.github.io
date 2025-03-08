@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Paper
 
-* __Earnings Dynamics, Transitions, and Stepping-stone Employers__. _(Job Market Paper)_. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/March7_2025.pdf)\
+* __Earnings Cuts Upon Transitions and the Role of Stepping-stone Employers__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/March7_2025.pdf)\
   _Under Census Bureau Project #2799_ \
 I study the prevalence and drivers of earnings cuts upon transitions (ECUTs).  Using linked administrative-survey data from U.S. census, I identify motivations for transitions and quantify ECUTs across them. I find many movers solely moitivated by pecuniary reason still experience ECUTs. Moreover, workers who transition for pecuniary reasons have higher future earnings growth and higher probability of subsequent transitions. I propose that certain employers act as “stepping-stones,” providing pathways to better job opportunities.  I develop a random search model where employers differ in the quantity and quality of offer arrival rates, highlighting the role of stepping-stone employers in ECUTs and labor dynamics.
 
