@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img src="/images/profile_1a.jpg" alt="Profile Photo" style="width:240px; float:left; margin-right:20px;">
 
-I'm Xiaonan ([pronunciation](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&text=潇南&op=translate)), or Steve. 
+I'm Xiaonan (["Shee-ow-Nahn"](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&text=潇南&op=translate)), or Steve. 
 I am a PhD candidate in economics at the [University of Rochester](http://www.sas.rochester.edu/eco/index.html). My Ph.D. research is supervised by [Mark Bils](https://sites.google.com/view/markbils/research).
 
 <div style="clear:both;"></div>
