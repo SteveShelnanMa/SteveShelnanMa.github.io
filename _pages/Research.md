@@ -22,7 +22,7 @@ I study the prevalence and drivers of earnings cuts upon transitions (ECUTs).  U
   </div>
 -->
 
-* __A Simple Search Model with Employer Network__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/LMENS.pdf)[[Slides]](https://SteveShelnanMa.github.io/workingpaper/simplemodel.pdf)\
+* __A Simple Search Model with Employer Network__. [[Draft]](https://SteveShelnanMa.github.io/workingpaper/LMENS.pdf)[[Slides]] (https://SteveShelnanMa.github.io/workingpaper/simplemodel.pdf), Submitted \
   _Conibear Memorial Prize for the Best Third Year Paper, University of Rochester,_\
 I examine how employer network structures influence labor market outcomes with a simple search model. Employers are represented as network nodes, with edges reflecting higher job offer arrival rates. We establish the existence and uniqueness of a ‘node value,’ the expected lifetime value of using an employer's network for job search. This node value share similar properties with option asset and network centrality. Through node values, employer network structures impact employment, labor mobility, and wage distributions.
 
