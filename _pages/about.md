@@ -19,5 +19,5 @@ I am a PhD candidate in economics at the University of Rochester. My Ph.D. resea
 My research combines empirical and quantitative methods, often leveraging micro-data to explore the dynamics between workers and firms in frictional labor markets. I investigate how these interactions influence macroeconomic outcomes.
 </p>
 
-My [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/CV.pdf) updated on 01/31/2025.
+My [Curriculum Vitae](https://SteveShelnanMa.github.io/CV/CV.pdf) and [Resume](https://SteveShelnanMa.github.io/CV/Resume.pdf).
 
