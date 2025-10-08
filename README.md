@@ -1,4 +1,4 @@
-I’m Xiaonan (pronouced Hsiao-Nan), or Steve. I am a PhD candidate in economics at the University of Rochester. My Ph.D. research is supervised by Mark Bils.
+I’m Xiaonan, or Steve. I earned my PhD in economics at the University of Rochester in May 2025. My research was supervised by Mark Bils.
 
 Research Fields: Macroeconomics, Labor Economics, Firm Dynamics.
 
