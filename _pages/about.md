@@ -10,7 +10,7 @@ redirect_from:
 <img src="/images/profile_1b.jpg" alt="Profile Photo" style="width:240px; float:left; margin-right:20px;">
 
 I'm Xiaonan (["Shee-ow-Nahn"](https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&text=潇南&op=translate)), or Steve. 
-I earned my Ph.D. in economics at the University of Rochester in May 2025. My research is supervised by [Mark Bils](https://sites.google.com/view/markbils/research). This website archives my academic experience, which is a valuable stepping-stone of my current life.
+I earned my Ph.D. in economics at the University of Rochester in May 2025. My research was supervised by [Mark Bils](https://sites.google.com/view/markbils/research). This website archives my academic experience, which is a valuable stepping-stone of my current life.
 
 <div style="clear:both;"></div>
 
